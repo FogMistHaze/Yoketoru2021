@@ -265,6 +265,7 @@ GameObject:
   m_Component:
   - component: {fileID: 374474771}
   - component: {fileID: 374474770}
+  - component: {fileID: 374474772}
   m_Layer: 0
   m_Name: TinyAudio
   m_TagString: Untagged
@@ -382,6 +383,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &374474772
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 374474769}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6ca8c703cd51b04d861d31f7d3d1b5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  seList:
+  - {fileID: 8300000, guid: 71b63e5970252fd429fa96b16b1a8c15, type: 3}
+  - {fileID: 8300000, guid: a7cf5801d953ff4469f40a665f56027a, type: 3}
+  - {fileID: 8300000, guid: 8a2d7f732d967b64485b500ccd048848, type: 3}
+  - {fileID: 8300000, guid: a86dbe3614c87ea44a8f76918fbe3740, type: 3}
+  - {fileID: 8300000, guid: 94996014f2329f1478e1f930ad1b57b2, type: 3}
+  - {fileID: 8300000, guid: 2a7349ec424f54741988c2cb983a57de, type: 3}
 --- !u!1 &771470682
 GameObject:
   m_ObjectHideFlags: 0
