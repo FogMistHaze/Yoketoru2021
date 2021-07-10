@@ -285,7 +285,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: c51d675a4816d434f9857ba1a8d94cfc, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.3
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -396,12 +396,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   seList:
-  - {fileID: 8300000, guid: 71b63e5970252fd429fa96b16b1a8c15, type: 3}
-  - {fileID: 8300000, guid: a7cf5801d953ff4469f40a665f56027a, type: 3}
-  - {fileID: 8300000, guid: 8a2d7f732d967b64485b500ccd048848, type: 3}
-  - {fileID: 8300000, guid: a86dbe3614c87ea44a8f76918fbe3740, type: 3}
   - {fileID: 8300000, guid: 94996014f2329f1478e1f930ad1b57b2, type: 3}
   - {fileID: 8300000, guid: 2a7349ec424f54741988c2cb983a57de, type: 3}
+  - {fileID: 8300000, guid: a86dbe3614c87ea44a8f76918fbe3740, type: 3}
+  - {fileID: 8300000, guid: 8a2d7f732d967b64485b500ccd048848, type: 3}
+  - {fileID: 8300000, guid: 71b63e5970252fd429fa96b16b1a8c15, type: 3}
+  - {fileID: 8300000, guid: a7cf5801d953ff4469f40a665f56027a, type: 3}
 --- !u!1 &771470682
 GameObject:
   m_ObjectHideFlags: 0
